@@ -1,8 +1,8 @@
 ## Olá, sou Thaís Lino 😃
 <div align="center">
   <a href="https://github.com/ThaisSLino">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ThaisSLino&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSLino&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="300" width="390" src="https://github-readme-stats.vercel.app/api?username=ThaisSLino&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img  height="300" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSLino&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,3 +27,4 @@
 - ⚡ Fun fact: I'm migrating from teaching English to portuguese native speakers.
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+t
