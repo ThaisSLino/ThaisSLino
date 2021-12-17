@@ -1,4 +1,8 @@
-## Olá, sou Thaís Lino 😃
+<div align="center">
+  
+## Hey, I'm Thaís Lino 😃
+   
+</div>
 <div align="center">
   <a href="https://github.com/ThaisSLino">
   <img height="300" width="390" src="https://github-readme-stats.vercel.app/api?username=ThaisSLino&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
